@@ -54,6 +54,5 @@ To solve the problem of the limited IBD data we will use synthetically augmented
 
   * which interactions are associated with disease
   * can we manipulate interactions
-  * will removing or adding bacteria A affect the gut microbiome and improve patient health? Thus, we consider it a high risk/high reward part of our  
-  project.  
+  * will removing or adding bacteria A affect the gut microbiome and improve patient health? Thus, we consider it a high risk/high reward part of our project.  
 
