@@ -13,10 +13,11 @@ this repo contains data and code produced during development of project 'Dynamic
 
 
   The project consists of 4 parts: 
-  0) data preparation 
-  1) analysis of linear interactions between bacteria
-  2) analysis of more complex interactions within gut microbiome
-  3) comparison of interactions between healthy and IBD subjects.
+  
+  * data preparation 
+  * analysis of linear interactions between bacteria
+  * analysis of more complex interactions within gut microbiome
+  * comparison of interactions between healthy and IBD subjects.
   
 
 0) We will use cross-sectional and time-series data from healthy and IBD adult subjects and preprocess it using our already developed pipeline that takes into account the limitations of microbiome data.
@@ -41,9 +42,8 @@ Steps 1 & 2 will be performed separately on healthy and IBD patients and for eac
 
 To solve the problem of the limited IBD data we will use synthetically augmented (artificially manufactured) data points in the 3rd step. This way, we may determine optimal time-series data collection guidelines for future sample collection. We believe that understanding interactions between bacteria in the gut microbiome will help answer important questions in the future: 
 
-i) which interactions are associated with disease
-
-ii) can we manipulate interactions
-
-iii) will removing or adding bacteria A affect the gut microbiome and improve patient health? Thus, we consider it a high risk/high reward part of our project.  
+  * which interactions are associated with disease
+  * can we manipulate interactions
+  * will removing or adding bacteria A affect the gut microbiome and improve patient health? Thus, we consider it a high risk/high reward part of our  
+  project.  
 
