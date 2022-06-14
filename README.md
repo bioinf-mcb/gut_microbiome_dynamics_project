@@ -39,5 +39,11 @@ Steps 1 & 2 will help understand the dynamics of the gut microbiome in healthy s
 Steps 1 & 2 will be performed separately on healthy and IBD patients and for each subject, we will obtain a matrix of gut microbiome interactions. Then, we will use a classifier to separate interaction matrices from healthy and IBD subjects. As an interaction matrix is a graph, we will use graph NNs for this classification task. After training an efficient classifier we will analyze features (i.e. bacteria-bacteria interactions) that are influencing its results. 
 
 
-To solve the problem of the limited IBD data we will use synthetically augmented (artificially manufactured) data points in the 3rd step. This way, we may determine optimal time-series data collection guidelines for future sample collection. We believe that understanding interactions between bacteria in the gut microbiome will help answer important questions in the future: i) which interactions are associated with disease, ii) can we manipulate interactions, iii) will removing or adding bacteria A affect the gut microbiome and improve patient health? Thus, we consider it a high risk/high reward part of our project.  
+To solve the problem of the limited IBD data we will use synthetically augmented (artificially manufactured) data points in the 3rd step. This way, we may determine optimal time-series data collection guidelines for future sample collection. We believe that understanding interactions between bacteria in the gut microbiome will help answer important questions in the future: 
+
+i) which interactions are associated with disease
+
+ii) can we manipulate interactions
+
+iii) will removing or adding bacteria A affect the gut microbiome and improve patient health? Thus, we consider it a high risk/high reward part of our project.  
 
